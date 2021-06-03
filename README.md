@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**xavierhazzardadmin/xavierhazzardadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/xavierhazzardadmin.png "Header")](https:/xavierhazzardadmin.github.io/)
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning NextJS.
+- 👯 I’m looking to collaborate on.
+- 💬 Ask me about JavaScript, React, Next.
+- 📫 How to reach me: Discord: Jeddals#3314
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: You can grow multiple fruits on the same tree by splicing branches.
+
