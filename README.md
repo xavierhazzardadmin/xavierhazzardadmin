@@ -7,10 +7,10 @@
 
 
 
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning NextJS.
-- 👯 I’m looking to collaborate on anything back-end related or React based
-- 💬 Ask me about JavaScript, React, Next.
-- 📫 How to reach me: Discord: Jeddals#3314
-- ⚡ Fun fact: You can grow multiple fruits on the same tree by splicing branches.
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning NextJS, Typescript and Go and Studying Computer Science.
+- 👯 I’m looking to collaborate on anything backend related, especially Go related or NextJS related.
+- 💬 Ask me about JavaScript, React, Next, Go.
+- 📫 How to reach me: Discord: Jeddals#6619.
+- ⚡ Fun fact: Arch is the best Linux distro.
 
